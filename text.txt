@@ -1,4 +1,5 @@
 1. first line
 2. second line
+a line in the middle
 3. third line
 4. fourth line
